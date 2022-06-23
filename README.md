@@ -22,13 +22,13 @@
 
 - Para obter os dados meteorológicos foi utilizada a API `https://openweathermap.org/api`
 
-### Instalação
+## Instalação
 
 - Clone este repositório: `git clone https://github.com/rafabarbosa/weather-app.git`
 - Entre na pasta através do comando: `cd weather-app`
 - Instalar todas as dependências do projeto: `yarn install`
 - Executar o EXPO para rodar a aplicação: `expo start`
 
-### Feedback
+## Feedback
 
 Feedbacks são sempre bem vindos.
